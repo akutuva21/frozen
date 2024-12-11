@@ -1,0 +1,5 @@
+## ML 10701 Final Project
+
+We performed model distillation on four foundational image classification models (RESNET-18, AlexNET, VGG16, EfficientNET) to analyze the impact of replacing select convolutional layers with linear layers. Our layer replacement experiments for each model are in .ipynb files within the labeled folders.
+
+A subset of the ImageNet dataset (Imagenette, 160px) was used and can be downloaded from: https://github.com/fastai/imagenette.
