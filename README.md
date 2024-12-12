@@ -8,5 +8,6 @@ The following files contianing final code are:
  - AlexNet_Final.ipynb
  - ML10701_EfficientNet_replace_without_outputs.ipynb (Outputs are in ML10701_EfficientNet_replace.ipynb)
  - VGG16_final.ipynb
+ - All files in the RESNET folder
 
 A subset of the ImageNet dataset (Imagenette, 160px) was used and can be downloaded from: https://github.com/fastai/imagenette.
