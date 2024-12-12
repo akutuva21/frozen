@@ -4,4 +4,9 @@ We performed model distillation on four foundational image classification models
 
 EfficientNET has one .ipynb file with all outputs saved that is very large and one .pynb file without outputs which is easier to view.
 
+The following files contianing final code are:
+ - AlexNet_Final.ipynb
+ - ML10701_EfficientNet_replace_without_outputs.ipynb (Outputs are in ML10701_EfficientNet_replace.ipynb)
+ - VGG16_final.ipynb
+
 A subset of the ImageNet dataset (Imagenette, 160px) was used and can be downloaded from: https://github.com/fastai/imagenette.
